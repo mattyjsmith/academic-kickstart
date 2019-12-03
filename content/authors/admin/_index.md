@@ -16,7 +16,7 @@ role: Doctoral Student of Biostatistics
 organizations:
 - name: LSHTM
   url: "https://www.lshtm.ac.uk/"
-- name: CSG
+- name: Cancer Survival Group
   url: "https://csg.lshtm.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
