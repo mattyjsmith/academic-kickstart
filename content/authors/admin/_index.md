@@ -25,8 +25,8 @@ bio: My research interests include survival analysis, causal inference and missi
 interests:
 - Survival Analysis
 - Causal Inference
-- Cancer Immunotherapy
 - Missing Data
+- Cancer Immunotherapy
 
 education:
   courses:
