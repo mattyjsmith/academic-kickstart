@@ -16,6 +16,8 @@ role: Doctoral Student of Biostatistics
 organizations:
 - name: LSHTM
   url: "https://www.lshtm.ac.uk/"
+- name: CSG
+  url: "https://csg.lshtm.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include survival analysis, causal inference and missing data.
