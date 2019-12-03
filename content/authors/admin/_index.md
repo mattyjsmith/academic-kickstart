@@ -23,9 +23,10 @@ organizations:
 bio: My research interests include survival analysis, causal inference and missing data.
 
 interests:
-- Statistics
+- Survival Analysis
+- Causal Inference
 - Cancer Immunotherapy
-- Financial Systems
+- Missing Data
 
 education:
   courses:
