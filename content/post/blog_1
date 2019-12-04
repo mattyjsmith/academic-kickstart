@@ -1,13 +1,4 @@
 +++
-
-# Heading 1
-## Heading 2
-### Heading 3
-
-test 
-test 
-test
-test
-test
-
+date = 2017-12-01
+title = "My first blog post"
 +++
