@@ -1,6 +1,6 @@
 +++
 date = 2017-12-01
-title = "What is survival analysis?"
+title = "Survival analysis in observational studies"
 
 +++
 
