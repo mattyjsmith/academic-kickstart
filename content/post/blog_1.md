@@ -26,7 +26,7 @@ A survival estimate derived directly from the excess hazard is termed **Net Surv
 Here we are making some very important assumptions. We first assume that the time to death due to the cancer and the time to death due to other causes are conditionally independent given a set of known covariates (i.e. the patient's age at diagnosis, gender, deprivation, and calendar year at time of diagnosis). It is by this very assumption that cancer survival estimates from one country can be compared to survival estimates from another country, because accounting for the background population mortality for a country makes the survival estimate for that country independent of the background population mortality. 
 
 
-
+(Constantly updated, the author is lethargic...)
 
 
 
