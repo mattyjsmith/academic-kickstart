@@ -11,7 +11,7 @@ There are many measures of survival in both randomised controlled trials and obs
 
 Before we go any further, it is beneficial to give some clear definitions. *Survival* is the percentage of the population alive at a certain time, given that these people have suvived up to that time. *Net survival* is the survival of patients where the cause of death is due only to the disease under study. In other words, and in this context, it is the survival of cancer patients that would be observed if cancer were the only possible cause of death. Survival is commonly mistaken as a rate; the reason for this is because the estimate for a survival probability is derived from an estimate of the *hazard*, which is a rate. I do not go into the specifics here, but it is only correct to use the term *survival* as a *probability* statement and **not a rate**.
 
-Net survival is an estiamte of survival that was more clearly defined by [Maja Poher Perme *et al* in 2012](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1541-0420.2011.01640.x).  
+Net survival is an estimate of survival that was more clearly defined by [Maja Poher Perme *et al* in 2012](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1541-0420.2011.01640.x).  
 
 
 
