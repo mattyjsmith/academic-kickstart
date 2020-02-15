@@ -18,18 +18,32 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Seminar leader"
+  title = "Seminar leader: Advanced Statistical Modelling"
   company = "LSHTM"
   # company_url = ""
   # location = "London"
   date_start = "2017-10-01"
   date_end = ""
-  description = """
-  For each of the courses the responsibilities include:
-  * Advanced Statistical Modelling: explaining methods used for linear, binary and categorical outcome modelling in a hierarchical context
-  * Statistical Methods in Epidemiology: deriving and explaining likelihoods for model used in a causal relationship setting
-  * Robust Statistical Methods: explaining the use of non-parametric methods when parametric assumptions are not justified
-  """
+  description = """Explaining methods used for linear, binary and categorical outcome modelling in a hierarchical context"""
+  
+[[experience]]
+  title = "Seminar leader: Statistical Methods in Epidemiology"
+  company = "LSHTM"
+  # company_url = ""
+  # location = "London"
+  date_start = "2017-10-01"
+  date_end = ""
+  description = """Deriving and explaining likelihoods for models used in a causal relationship setting"""
+
+[[experience]]
+  title = "Seminar leader: Robust Statistical Methods"
+  company = "LSHTM"
+  # company_url = ""
+  # location = "London"
+  date_start = "2017-10-01"
+  date_end = ""
+  description = """Explaining the use of non-parametric methods when parametric assumptions are not justified"""
+
 
 # [[experience]]
 #  title = "Professor"
