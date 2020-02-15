@@ -4,7 +4,9 @@ title = "Survival analysis in observational studies: when the cause of death is 
 
 +++
 
-Blah blah blah blah Blah blah blah blah Blah blah blah blah Blah blah blah blah
+There are many measures of survival in both randomised controlled trials and observational studies. Here, I focus on one particular measure of survival that is most commonly used for cancer survival estimates in population studies. By definition, survival is the percentage of the population alive at a certain time, given that these people have suvived up to that time. 
+
+
 
 
 
