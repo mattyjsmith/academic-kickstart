@@ -20,8 +20,10 @@ Net survival was more clearly defined by [Maja Pohar Perme *et al*](https://onli
 
 To estimate net survival we must first make a very important assumption. We first assume that the *observed hazard* (i.e. the hazard across all patients in our dataset) can be decomposed into the *population hazard* and the *excess hazard*. That is: 
 
-![Decomposition](academic-kickstart/static/img/Decomposition.png)
-![Decomposition](https://github.com/mattyjsmith/academic-kickstart/tree/master/static/img/Decomposition.png)
+
+
+![Decomposition](academic-kickstart/static/img/Decomposition.png?raw=true)
+![Decomposition](https://github.com/mattyjsmith/academic-kickstart/tree/master/static/img/Decomposition.png?raw=true)
 
 
 
