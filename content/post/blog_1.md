@@ -18,12 +18,12 @@ There are two settings when exploring survival of patients with cancer: the caus
 ## Net Survival
 Net survival was more clearly defined by [Maja Pohar Perme *et al*](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1541-0420.2011.01640.x) in 2012: this method is called the **Pohar Perme** estimate of net survival. Prior to the Pohar Perme method, other methods of survival were thought to have been estimating net survival but were in fact estimating something slightly different: the (relative survival ratio): such methods were [Ederer I](https://scholar.google.com/scholar_lookup?hl=en&publication_year=1961&pages=101-121&author=F.+Ederer&author=L.+M.+Axtell&author=S.+J.+Cutler&title=The+Relative+Survival+Rate%3A+A+Statistical+Methodology), [Hakulinen](https://www.jstor.org/stable/2529873?origin=crossref&seq=1), and [Ederer II](https://scholar.google.com/scholar_lookup?hl=en&publication_year=1961&pages=101-121&author=F.+Ederer&author=L.+M.+Axtell&author=S.+J.+Cutler&title=The+Relative+Survival+Rate%3A+A+Statistical+Methodology). 
 
-To estimate net survival, we first decompose the *observed hazard* (i.e. the hazard across all patients in our dataset) into the *population hazard* and the *excess hazard*, that is: 
+To estimate net survival, we first decompose the *observed hazard* (i.e. the hazard across all patients in our dataset) into the *population hazard* (i.e. assumed to be the hazard due to other causes) and the *excess hazard*, that is: 
 ![image](https://user-images.githubusercontent.com/33094651/74594443-60255b00-502e-11ea-86bf-25e0ebc7f237.png)
 
-Here we are making some very important assumptions. We first assume that the time to death due to the cancer and the time to death due to other causes are conditionally independent given a set of known covariates (e.g. the patient's age at diagnosis, gender, deprivation, and calendar year at time of diagnosis). 
+A survival estimate derived directly from the excess hazard is termed **Net Survival**. Notice in the diagram above that the observed hazard is the summation of the population hazard and the excess hazard, so we are assuming the observed hazard will always be greater than the population hazard.
 
-
+Here we are making some very important assumptions. We first assume that the time to death due to the cancer and the time to death due to other causes are conditionally independent given a set of known covariates (i.e. the patient's age at diagnosis, gender, deprivation, and calendar year at time of diagnosis). It is by this very assumption that cancer survival estimates from one country can be compared to survival estimates from another country, because accounting for the background population mortality for a country makes the survival estimate for that country independent of the background population mortality. 
 
 
 
