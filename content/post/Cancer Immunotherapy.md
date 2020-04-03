@@ -55,5 +55,5 @@ The graph below shows the number of possible adverse events that could be experi
 
 ## **How will the treatment impact the patient’s quality of life?**
 
-
+Measures of quality of life...
 
