@@ -14,7 +14,7 @@ When you cut your finger or grazed your elbow, healthy cells signal to each othe
 Bodily cells function normally until there is a mutation of the DNA (deoxyribonucleic acid) of a gene within the nucleus that instructs the cell to cease or alter its normal function. One of the functions of a gene is to regulate how often and how much the cell divides. If this function ceases or is altered, then the cell may continue to divide at an unstoppable rate. Cancer results from an uncontrolled proliferation of cells in your body, and may lead to a tumour, which is a mass of misfunctioning cells. The tumour may then spread if cancerous cells metastasise from the mass.
 
 
-## **What are the treatments?**
+## **How is cancer treated?**
 
 For hundreds of years, even since the ancient Egyptians, physicians have been confounded by the origins of cancer and how to rid it of the body. William Halsted, a radical 19th surgeon, pioneered extensive removal of bodily tissue in an attempt to not only detach the original tumour but also avoid cancer cells reaching further into the body. Later, in 1896, Emil Grubbe used radiation to kill cancerous cells, the side effect was that it also killed healthy cells. Radiation is still used as a treatment because cancer cells do not have the ability to repair, but healthy cells do. Fast-forward into the 1940s, during the outbreak of World War Two, one of the first chemotherapy drugs, nitrogen mustard, was used to treat lymphoma. This too has side effects, chemotherapy drugs target rapidly dividing cells, such as cancer, but the body also has rapidly dividing healthy cells such as the skin and hair. Chemotherapy is cytotoxic: the drug kills cancer cells. In 1975, Cesar Milstein and Georges Kohler discovered the process to make antibodies. Antibodies are naturally occurring proteins within the immune system that bind to antigens and tag a foreign cell for attack by other parts of the immune system. This "tagging" process gave the success to targeted therapies, such as immunotherapy.  
 
@@ -34,7 +34,7 @@ There are several types of immunotherapy: adoptive cell transfer therapy, monocl
 
 **General immunotherapies** (cytokines) boost your immune system without being specific about what the immune system is targeting. Currently, there are two types. *Interferons* increase the resistance of healthy cells to natural killer cells and makes cancer cells more vulnerable to cytotoxic T-cells. *Interleukins* inhibit the growth and proliferation of cancer cells and makes them more visible to the immune system. 
 
-## **What are the side effects?**
+## **Are there any side effects?**
 
 With any treatment there is always a side effect. In epidemiological research these side effects are monitored, recorded and given the term 'adverse events'.
 
@@ -50,7 +50,7 @@ With any treatment there is always a side effect. In epidemiological research th
 
 
 
-## **How will it impact on the patient’s quality of life?**
+## **How will the treatment impact the patient’s quality of life?**
 
 
 
