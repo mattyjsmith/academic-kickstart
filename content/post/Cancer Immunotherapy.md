@@ -40,7 +40,7 @@ With any treatment there is always a side effect. In epidemiological research th
 
 The graph below shows the number of possible adverse events that could be experienced by patients on each immunotherapy.
 
-![image](https://user-images.githubusercontent.com/static/img/irAE.png)
+![image](https://user-images.githubusercontent.com/33094651/78387281-f7db0a80-75d6-11ea-8ff9-91742e2dad7e.png)
 
 
 
