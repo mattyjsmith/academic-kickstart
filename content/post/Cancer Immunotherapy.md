@@ -49,7 +49,7 @@ The graph below shows the number of possible adverse events that could be experi
 
 **ICI**: patients may experience rash, dyspnea, pain, swelling, itchiness, fatigue, diarrhoea, congestive heart failure, and allergies.
 
-**Vaccines**: patients may experience fever, nausea, headache, hypotension, dyspnea, pain, chills, fatigue, stroke, and allergies.
+**CV**: patients may experience fever, nausea, headache, hypotension, dyspnea, pain, chills, fatigue, stroke, and allergies.
 
 **Cytokines**: patients may experience fever, nausea, headache, rash, hypotension, dyspnea, pain, soreness, redness, itchiness, chills, fatigue, and allergies.
 
