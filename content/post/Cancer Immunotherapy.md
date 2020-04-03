@@ -35,7 +35,7 @@ There are several types of immunotherapy: adoptive cell transfer therapy, monocl
 
 **General immunotherapies** (cytokines) boost your immune system without being specific about what the immune system is targeting. Currently, there are two types. *Interferons* increase the resistance of healthy cells to natural killer cells and makes cancer cells more vulnerable to cytotoxic T-cells. *Interleukins* inhibit the growth and proliferation of cancer cells and makes them more visible to the immune system. 
 
-## What the side effects?
+## What are the side effects?
 
 
 
