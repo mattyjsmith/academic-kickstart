@@ -36,7 +36,7 @@ There are several types of immunotherapy: adoptive cell transfer therapy, monocl
 
 ## **Are there any side effects?**
 
-With any treatment there is always a side effect. In epidemiological research these side effects are monitored, recorded and given the term 'adverse events'.
+With any treatment there are always a side effects. In epidemiological research these side effects are monitored, recorded and given the term 'adverse events'.
 
 The graph below shows the number of possible adverse events that could be experienced by patients on each immunotherapy. This is raw data that should only be interpreted with the most critical of views.
 
