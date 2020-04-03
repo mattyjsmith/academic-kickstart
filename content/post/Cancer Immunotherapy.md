@@ -38,23 +38,20 @@ There are several types of immunotherapy: adoptive cell transfer therapy, monocl
 
 With any treatment there is always a side effect. In epidemiological research these side effects are monitored, recorded and given the term 'adverse events'.
 
-The graph below shows the number of possible adverse events that could be experienced by patients on each immunotherapy.
+The graph below shows the number of possible adverse events that could be experienced by patients on each immunotherapy. This is raw data that should only be interpreted with the most critical of views.
 
 ![image](https://user-images.githubusercontent.com/33094651/78387281-f7db0a80-75d6-11ea-8ff9-91742e2dad7e.png)
 
 
+**ACT**: patients may experience fever, nausea, headache, rash, tachycardia, hypotension, dyspnea, and allergies.
 
-**ACT**: patients may experience... 
+**MA**: patients may experience fever, nausea, headache, rash, tachycardia, hypotension, dyspnea, pain, swelling, soreness, redness, itchiness, chills, fatigue, diarrhoea, congestive heart failure, and allergies.
 
-**MA**: patients may experience...
+**ICI**: patients may experience rash, dyspnea, pain, swelling, itchiness, fatigue, diarrhoea, congestive heart failure, and allergies.
 
-**ICI**: patients may experience...
+**Vaccines**: patients may experience fever, nausea, headache, hypotension, dyspnea, pain, chills, fatigue, stroke, and allergies.
 
-**Vaccines**: patients may experience...
-
-**Cytokines**: patients may experience...
-
-
+**Cytokines**: patients may experience fever, nausea, headache, rash, hypotension, dyspnea, pain, soreness, redness, itchiness, chills, fatigue, and allergies.
 
 ## **How will the treatment impact the patient’s quality of life?**
 
