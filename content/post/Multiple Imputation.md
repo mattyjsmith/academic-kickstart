@@ -1,6 +1,6 @@
 +++
 date = 2017-12-01
-title = "Multiple Imputation"
+title = "Missing data analysis"
 subtitle = "Missing data analysis when you are *happy* that your data is missing at random"
 
 +++
