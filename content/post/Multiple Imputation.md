@@ -23,9 +23,11 @@ This is where missing data analysis can be an extremely useful tool.
 
 ## Clarification
 
-Continuing with our coronavirus example, imagine we collected data on 20 patients
+Continuing with our coronavirus example, imagine we wanted to understand which patient characteristics are associated with an increased chance of having coronavirus, or dying from coronavirus. Imagine we sample 20 patients from a hospital and collected information on their age, gender, received a test, whether this was a positive test, whether they died, and whether they had died due to coronavirus. The table below shows ours data...
 
 ![image](https://user-images.githubusercontent.com/33094651/79448285-14187780-7fd9-11ea-8680-24161a1c9937.png)
+
+So far, no problems. But if we were to gather data on all patients with coronavirus then we may miss a few records. 
 
 
 ## Multiple Imputation
