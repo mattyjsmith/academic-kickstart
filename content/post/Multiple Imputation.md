@@ -27,9 +27,13 @@ Continuing with our coronavirus example, imagine we wanted to understand which p
 
 ![image](https://user-images.githubusercontent.com/33094651/79448285-14187780-7fd9-11ea-8680-24161a1c9937.png)
 
-So far, no problems. But if we were to gather data on all patients (from 1, ..., n patients) with coronavirus then we may miss a few records. 
+So far, no problems. But if we were to gather data on all patients (from 1, ..., n patients) with coronavirus then we may miss a few records. The data below shows that there are now some empty cells for age, positive test, and death due to COVID-19.
 
 ![image](https://user-images.githubusercontent.com/33094651/79450586-f9480200-7fdc-11ea-8094-75dda28598ab.png)
+
+We could select only those patients with complete records for each variable, such as out of the first 25 patients. However, selecting only patients with complete records would result in having only 11 patients within or sample... (Note: a variable is a set of measurements for n number of patients).
+
+![image](https://user-images.githubusercontent.com/33094651/79451608-b5ee9300-7fde-11ea-9d7e-c7142703153d.png)
 
 ## Multiple Imputation
 
