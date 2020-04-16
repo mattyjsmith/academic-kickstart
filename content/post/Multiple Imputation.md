@@ -27,7 +27,7 @@ Continuing with our coronavirus example, imagine we wanted to understand which p
 
 ![image](https://user-images.githubusercontent.com/33094651/79448285-14187780-7fd9-11ea-8680-24161a1c9937.png)
 
-So far, no problems. But if we were to gather data on all patients (from 1, ..., n patients) with coronavirus then we may miss a few records.
+So far, no problems. But if we were to gather data on all patients (from 1, ..., n patients) with coronavirus then we may miss a few records. 
 
 ![image](https://user-images.githubusercontent.com/33094651/79450586-f9480200-7fdc-11ea-8094-75dda28598ab.png)
 
