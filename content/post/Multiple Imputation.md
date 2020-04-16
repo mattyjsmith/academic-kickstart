@@ -47,8 +47,6 @@ Missing data pattern
 Missing data mechanism
 
 
-
-We could instead
 ## Multiple Imputation
 
 
