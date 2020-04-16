@@ -31,10 +31,24 @@ So far, no problems. But if we were to gather data on all patients (from 1, ...,
 
 ![image](https://user-images.githubusercontent.com/33094651/79450586-f9480200-7fdc-11ea-8094-75dda28598ab.png)
 
-We could select only those patients with complete records for each variable, such as out of the first 25 patients. However, selecting only patients with complete records would result in having only 11 patients within or sample... (Note: a variable is a set of measurements for n number of patients).
+We could select only those patients with complete records for each variable, such as out of the first 25 patients. However, selecting only patients with complete records would result in having only 11 patients within our sample... (Note: a variable is a set of measurements for n number of patients).
 
 ![image](https://user-images.githubusercontent.com/33094651/79451608-b5ee9300-7fde-11ea-9d7e-c7142703153d.png)
 
+Reducing our dataset to only a few patients would bias our results and lose efficiency (i.e. large standard errors). Modern statistical methods can utilise all of the available data to reduce the bias and increase efficiency. So, what statistical methods are available to us, and how can we use them?
+
+## Statistical Methods
+
+
+
+Missing data pattern
+
+
+Missing data mechanism
+
+
+
+We could instead
 ## Multiple Imputation
 
 
