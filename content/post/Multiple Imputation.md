@@ -49,11 +49,13 @@ Suppose we have a set of **J** partially-observed variables measured on a set of
 
 2. the measurement for patient *i* is missing for all variables *x*' > *x*.
 
-Less formally, an example of a monotone missingness pattern could arise in a longitudinal study where patients are required to attend a clinic on regular timely occasions (such as every month) and an aspect of their health status was measured (such as blood pressure). If a patient decided not to follow through with the study on the [*n*]th occasion and subsequently did not attend the following check-ups, the remaining measurements of their health status would be 'missing'. A non-monotone missingness pattern would arise if this patient (and other patients) attended the clinic after already missing previous check-ups.
-
-
+Less formally, an example of a monotone missingness pattern could arise in a longitudinal study where patients are required to attend a clinic on regular timely occasions (such as every month) and an aspect of their health status was measured (such as blood pressure). If a patient decided not to follow through with the study on any particular occasion and subsequently did not attend the following check-ups, the remaining measurements of their health status would be 'missing'. A non-monotone missingness pattern would arise if this patient (and other patients) attended the clinic after already missing previous check-ups.
 
 **Missing data mechanism**
+
+Before embarking on running a "magical" software package to, for example, impute our missing data, we must first consider what we are assuming about the missing data.
+
+
 
 
 ## Multiple Imputation
