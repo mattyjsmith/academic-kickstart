@@ -44,10 +44,12 @@ Reducing our dataset to only a few patients would bias our results and lose effi
 Knowing the pattern of the missing data is important for several reasons. Firstly, it can indicate why the data is missing and whether we can physically recover the data. Secondly, it provides a justification of the choice for our statistical method, which we will discuss later. Lastly, having a monotone missingness pattern can simplify the methods used to reduce bias and increase efficiency.
 
 Suppose we have a set of **J** partially-observed variables measured on a set of *i* patients, the dataset will have a monotone missingness pattern if:
+
 1. the measurement for patient *i* is observed for all variables of *x*, where *x* = 2, ..., *J*, up to *x*' < *x*, and
+
 2. the measurement for patient *i* is missing for all variables *x*' > *x*.
 
-Less formally, an example of a monotone missingness pattern could arise in a longitudinal study where patients are required to attend a clinic on regular timely occasions (such as every month) and an aspect of their health status was measured (such as blood pressure). If a patient decided not to follow through with the study on the *n*th occasion and subsequently did not attend the following check-ups, the remaining measurements of their health status would be 'missing'. A non-monotone missingness pattern would arise if this patient (and other patients) attended the clinic after already missing previous check-ups. 
+Less formally, an example of a monotone missingness pattern could arise in a longitudinal study where patients are required to attend a clinic on regular timely occasions (such as every month) and an aspect of their health status was measured (such as blood pressure). If a patient decided not to follow through with the study on the [*n*]th occasion and subsequently did not attend the following check-ups, the remaining measurements of their health status would be 'missing'. A non-monotone missingness pattern would arise if this patient (and other patients) attended the clinic after already missing previous check-ups.
 
 
 
