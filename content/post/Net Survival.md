@@ -25,7 +25,14 @@ A survival estimate derived directly from the excess hazard is termed **Net Surv
 
 Here we are making some very important assumptions. We first assume that the time to death due to the cancer and the time to death due to other causes are conditionally independent given a set of known covariates (i.e. the patient's age at diagnosis, gender, deprivation, and calendar year at time of diagnosis). It is by this very assumption that cancer survival estimates from one country can be compared to survival estimates from another country, because accounting for the background population mortality for a country makes the survival estimate for that country independent of the background population mortality.
 
-Estimating the excess hazard requires allocating each cancer patient with an expected mortality rate from population life tables. Life tables are usually stratified by at least age and gender because the mortality rate can differ greatly between the young and older, or male and female, patients. Another demographic variable considered for stratification is socioeconomic status; however, much like ethnicity or comorbidity status, the records for these variables are not always available. The [inclusion of additional demographic variables](https://academic.oup.com/biostatistics/advance-article-abstract/doi/10.1093/biostatistics/kxz017/5499194) have been shown to improve the estimate of net survival and should be included where possible.
+Estimating the excess hazard requires allocating each cancer patient with an expected mortality rate from population life tables. Life tables are usually stratified by at least age and gender because the mortality rate can differ greatly between the young and older, or male and female, patients. Another demographic variable considered for stratification is socioeconomic status; however, much like ethnicity or comorbidity status, the records for these variables are not always available. The [inclusion of additional demographic variables](https://academic.oup.com/biostatistics/advance-article-abstract/doi/10.1093/biostatistics/kxz017/5499194) has been shown to improve the estimate of net survival and should be included where possible.
+
+At this point, we could be thinking, why don't we just estimate the overall survival of all cancer patients in our dataset because (since they are from the same country) they would be exposed to the same risks or have roughly the same mortality rate. What is more of interest is to compare cancer survival estimates between countries, and each country has its own mortality rate: this is where net survival becomes particularly useful.
+
+
+
+
+
 
 
 (Constantly updated, the author is lethargic...)
